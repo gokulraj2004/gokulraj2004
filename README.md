@@ -1,6 +1,19 @@
 # 💫 About Me:
-🎓 B.Tech CSE (AI & ML) | 🧑‍💻 Data Scientist with 1+ years of experience | 10+ ML projects | Azure & Google Cloud Certified<br>🔍 Passionate about Data Cleaning, ML/AI & Explainable AI<br>⚡ Proficient in Python, SQL, Power BI, and Streamlit<br>📚 Exploring innovative projects like Blue Zones and Drone-based Analysis
+I’m passionate about turning complex data into actionable insights, bridging the gap between ideas and impactful solutions. Always excited to learn, grow, and empower others through innovation!
+🎓 B.Tech CSE (AI & ML) | 🧑‍💻 Data Scientist with 2+ years of experience
+✅ Certified: Azure (AZ-104, AZ-900) | Google Cloud (17+ badges)
 
+🌟 Highlights & Achievements:
+
+🚀 Delivered 30+ ML projects, 20+ DL projects, and 5+ Generative AI projects
+📄 Published research paper: "QUADRUPED SPIDER BOTS FOR INTELLIGENT TERRAIN ANALYSIS" in Springer
+🌍 Part-time Data Scientist at Omdena, contributing to impactful global projects like Blue Zones
+🔧 Expertise in Feature Engineering, Model Development, and AI Deployment
+⚡ Skills:
+
+🐍 Python, SQL, Power BI, Streamlit, and advanced Excel
+💡 Specialization in Data Preprocessing, Explainable AI, and Cloud Deployment
+☁️ Experienced in Google Cloud and Azure for scalable solutions
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gokulraj075/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Gokulraj75) 
